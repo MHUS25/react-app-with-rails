@@ -1,3 +1,3 @@
 # Building a React application using Ruby on Rails...
 
-A small project to familiarise myself with ways of integrating ReactJS with RoR
+A small project following (this)[https://www.youtube.com/watch?v=5F_JUvPq410] tutorial to familiarise myself with ways of integrating ReactJS with RoR
